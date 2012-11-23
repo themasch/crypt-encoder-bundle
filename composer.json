@@ -8,8 +8,9 @@
             "email": "masch@masch.it"
         }
     ],
+    "license": "MIT",
     "require": {
-        "symfony/framework-bundle": "2.1.*",
+        "symfony/framework-bundle": "2.1.*"
     },
     "autoload": {
         "psr-0": { "maschit\\CryptEncoderBundle": "" }
