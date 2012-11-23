@@ -1,0 +1,3 @@
+services:
+  crypt_encoder:
+    class: maschit\CryptEncoderBundle\Service\CryptEncoder
